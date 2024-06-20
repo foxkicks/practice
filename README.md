@@ -42,7 +42,7 @@ Download: https://github.com/foxkicks/practice/releases/tag/RollAnyDice
 
 # Rock Paper Scissors
 
-A console program that's a simple looping game of Rock, Paper, Scissors. You score is kept until the program is exited.
+A console program that's a simple looping game of Rock, Paper, Scissors. Your score is kept until the program is exited.
 
 Download: https://github.com/foxkicks/practice/releases/tag/RockPaperScissors-v2
 
