@@ -62,4 +62,8 @@ Download: https://github.com/foxkicks/practice/releases/tag/Magic8Ball
 
 Reads and prints each line of a txt file as the user taps an input button.
 
+# Get ASCII Value
+
+Takes user input as a string and converts each character to its ASCII value.
+
 Download: https://github.com/foxkicks/practice/releases/tag/LyricsReader
