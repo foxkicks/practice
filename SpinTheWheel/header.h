@@ -1,0 +1,9 @@
+#include <iostream>
+#include <stdlib.h>
+#include <windows.h>
+#include <sysinfoapi.h>
+#include <string>
+#include <fstream>
+#include <iterator>
+#include <vector>
+#include <sstream>
